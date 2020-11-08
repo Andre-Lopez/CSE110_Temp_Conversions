@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Andre-Lopez/CSE110_Temp_Conversions.svg?branch=main)](https://travis-ci.org/Andre-Lopez/CSE110_Temp_Conversions)
